@@ -1,2 +1,2 @@
 print("Me imagino una nueva funcion")
-print("Nuevo cambio")
+print("Nuevo cambios")
